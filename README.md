@@ -14,7 +14,7 @@ The dataset used in this study is the Disaster Tweets from a Kaggle competition 
 Models used in this study are the following:
 - Support Vector Machines (SVM)
 - Multinomial Naive Bayes (MNB)
-- Recurrent Neural Network (RNN) with LSTM cells based on the architecture proposed by Liu et al. \cite{liu2016recurrent}
+- Recurrent Neural Network (RNN) with LSTM cells based on the architecture proposed by Liu et al. (https://arxiv.org/abs/1605.05101)
 
 
 ## Setup
